@@ -1,0 +1,22 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zaland/Test.git"
+  },
+  "author": "Zaland Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zaland/Test/issues"
+  },
+  "homepage": "https://github.com/Zaland/Test#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
