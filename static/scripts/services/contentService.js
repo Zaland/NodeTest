@@ -7,7 +7,6 @@ angular.module('nodetest').service('contentService', ['$http', function($http) {
     };
 
     this.saveJSON = function(newItem) {
-        console.log(newItem);
         return $http({
             method: 'POST',
             url: '/saveJSON',
