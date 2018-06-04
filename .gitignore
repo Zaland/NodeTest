@@ -2,3 +2,4 @@ node_modules/
 static/styles/style.css
 static/styles/style.css.map
 .sass-cache/
+content.json
